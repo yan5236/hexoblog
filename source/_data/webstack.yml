@@ -45,7 +45,7 @@ githubCorner: '<a href="https://github.com/HCLonely/hexo-theme-webstack" class="
 expandAll: false
 menu:
   - name: 公告
-    icon: far fa-star
+    icon: far fa-bullhorn
     config: zhiding
   - name: 常用工具
     icon: far fa-star
