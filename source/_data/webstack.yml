@@ -23,7 +23,7 @@ userDefinedSearchData:
     - name: 百度
       img: url(https://www.baidu.com/favicon.ico)
       url: https://www.baidu.com/s?wd=
-    - name: 谷歌
+    - name: 茶杯狐（找电影）
       img: url(https://www.cqjschungao.com/template/datll_tpl_cupfox/img/ioc.png)
       url: https://www.cqjschungao.com/cupfoxsearch/--/?wd=
 
