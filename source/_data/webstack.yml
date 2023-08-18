@@ -4,7 +4,7 @@ banner: /images/webstack_banner_cn.png
 logo:
   expanded: /images/tubiao1.png
   collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.png
+  dark: /images/tubiao1.png
 
 flag:
   - name: Chinese
