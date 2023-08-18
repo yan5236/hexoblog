@@ -1,6 +1,6 @@
 # hexo-theme-webstack
 
-[中文文档](https://github.com/HCLonely/hexo-theme-webstack/blob/master/README_CN.md)
+[中文文档](https://github.com/yan5236/hexoblog/blob/main/themes/webstack/README_CN.md)
 
 > A Hexo theme based on [WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io).
 
