@@ -1,0 +1,4 @@
+- name: 资源上传
+  url: https://nhjiehuo.eu.org/up
+  img: fa-solid fa-upload
+  description: 一个懒人的博客。
