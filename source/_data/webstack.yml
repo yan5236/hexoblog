@@ -1,13 +1,13 @@
-favicon: /favicon.ico
+favicon: /images/logo.png
 banner: /images/webstack_banner_cn.png
 
 logo:
   expanded: /images/tubiao1.png
-  collapsed: /images/logo-collapsed@2x.png
+  collapsed: /images/logo.png
   dark: /images/tubiao1.png
 
 flag:
-  - name: Chinese
+  - name: 中文
     default: true
     icon: flag-cn
     index: /index.html
@@ -78,8 +78,8 @@ aboutPage:
     head: 关于站长
     name: 男孩解说
     url: https://nhjiehuo.eu.org/
-    img: /images/logos/myblog.png
-    description: 懒人一个
+    img: /images/logo.png
+    description: 使用教程
     html: '<br /><blockquote><p>主题作者：<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
 since: 2023
